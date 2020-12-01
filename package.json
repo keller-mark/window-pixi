@@ -1,0 +1,26 @@
+{
+  "name": "window-pixi",
+  "version": "5.3.3",
+  "description": "PIXI js on the global window",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keller-mark/window-pixi.git"
+  },
+  "author": "Mark Keller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keller-mark/window-pixi/issues"
+  },
+  "homepage": "https://github.com/keller-mark/window-pixi#readme",
+  "devDependencies": {
+    "fs-extra": "^9.0.1",
+    "pixi.js": "5.3.3"
+  },
+  "files": [
+    "dist"
+  ]
+}
